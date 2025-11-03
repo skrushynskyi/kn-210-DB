@@ -1,0 +1,3 @@
+SELECT *
+FROM spot
+WHERE HOUR(trade_date) BETWEEN 0 AND 6;
