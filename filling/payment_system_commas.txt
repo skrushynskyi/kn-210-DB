@@ -1,0 +1,6 @@
+id,name,type,limits,status,wallet_id;
+1,PayPal,deposit,10000.0,active,1;
+2,Stripe,withdrawal,5000.0,active,2;
+3,Binance Pay,deposit,20000.0,active,3;
+4,Revolut,withdrawal,7000.0,inactive,4;
+5,Wise,deposit,15000.0,active,5;

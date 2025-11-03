@@ -1,0 +1,16 @@
+data,type,user,status,suma;
+2025-08-17 17:27:58,withdrawal,user1@example.com,failed,2817.8;
+2025-10-23 07:08:28,deposit,user2@example.com,failed,4977.07;
+2025-10-28 13:26:48,transfer,user3@example.com,completed,616.82;
+2025-09-02 00:36:41,transfer,user4@example.com,failed,2664.76;
+2025-10-24 01:32:28,transfer,user5@example.com,pending,2192.46;
+2025-10-25 23:18:35,withdrawal,user6@example.com,failed,1921.8;
+2025-10-03 15:11:12,withdrawal,user7@example.com,completed,951.81;
+2025-08-22 00:02:25,transfer,user8@example.com,completed,2513.1;
+2025-10-03 13:39:13,withdrawal,user9@example.com,failed,820.73;
+2025-09-11 12:08:59,transfer,user10@example.com,failed,2457.09;
+2025-08-16 11:02:43,transfer,user11@example.com,completed,3877.07;
+2025-08-09 00:34:58,withdrawal,user12@example.com,failed,4689.99;
+2025-10-09 20:03:24,withdrawal,user13@example.com,completed,4650.44;
+2025-10-14 15:35:30,withdrawal,user14@example.com,pending,868.39;
+2025-10-25 04:36:44,withdrawal,user15@example.com,completed,4230.5;

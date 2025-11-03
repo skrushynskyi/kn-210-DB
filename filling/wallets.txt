@@ -1,0 +1,16 @@
+id	user	balance	status	token_type
+1	1	1520.45	active	BTC
+2	2	780.3	frozen	ETH
+3	3	954.22	active	USDT
+4	4	2100.1	closed	SOL
+5	5	320.55	active	ADA
+6	1	850.0	active	ETH
+7	2	460.78	active	BTC
+8	3	1450.9	frozen	SOL
+9	4	999.99	active	USDT
+10	5	2340.12	closed	ADA
+11	1	120.0	active	BTC
+12	2	870.6	frozen	USDT
+13	3	340.33	active	SOL
+14	4	4100.0	closed	ETH
+15	5	275.15	active	ADA
