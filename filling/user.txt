@@ -1,6 +1,6 @@
 id,name,email,password,user_type;
-1,alex,alex@example.com,pass123,admin;
-2,mike,mike@example.com,qwerty,client;
-3,sara,sara@example.com,abc123,trader;
-4,kate,kate@example.com,pass321,support;
-5,john,john@example.com,secure1,client;
+1,alex,user1@example.com,pass123,admin;
+2,mike,user2@example.com,qwerty,client;
+3,sara,user3@example.com,abc123,trader;
+4,kate,user4@example.com,pass321,support;
+5,john,user5@example.com,secure1,client;
