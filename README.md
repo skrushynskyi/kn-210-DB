@@ -1,4 +1,4 @@
-<img width="1093" height="89" alt="Знімок екрана 2026-06-02 о 10 13 36" src="https://github.com/user-attachments/assets/ed6f7fe5-317d-480c-b41a-3493a5eda485" />#Екзамен
+#Екзамен
 
 
 Реалізація парадигм ООП (Варіант 3)
